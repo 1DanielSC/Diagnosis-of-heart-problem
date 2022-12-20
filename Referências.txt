@@ -1,0 +1,21 @@
+Amostras:
+https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease/code?datasetId=1936563&sortBy=voteCount
+
+Pré-processamento:
+https://deepchecks.com/what-is-data-cleaning/
+https://en.wikipedia.org/wiki/Data_pre-processing
+https://www.frontiersin.org/articles/10.3389/fenrg.2021.652801/full
+
+Resampling Strategies:
+https://erasmo-aln.medium.com/oversampling-ou-undersampling-porque-n%C3%A3o-os-dois-juntos-124ecb7fbb6b
+https://www.kaggle.com/code/rafjaa/resampling-strategies-for-imbalanced-datasets/notebook
+
+Neural Networks:
+https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease/code?datasetId=1936563&sortBy=voteCount
+https://keras.io/api/layers/core_layers/dense/
+https://www.tensorflow.org/api_docs/python/tf/keras/layers/Dense
+
+Ensemble Learning:
+https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
+https://en.wikipedia.org/wiki/Ensemble_learning
+GOODFELLOW, I.; BENGIO, Y.; COURVILLE, A. Deep Learning.
